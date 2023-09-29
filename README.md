@@ -1,6 +1,6 @@
 # bitcoin-sentiment-analysis
 A Decision Support System is developed that incorporates Sentiment analysis in AI prediction models Real time data is extracted from social
-media platforms like reddit, and twitter and sentimental analysis is performed to accurately identify the sentiment behind
+media platforms like reddit, and twitter and sentimental analysis is performed to accurately identify the sentiment behind
 the text and classify them into positive, negative, and neutral.
 AI prediction Models: AI prediction models are integrated
 with the sentiment analysis features for better prediction of
